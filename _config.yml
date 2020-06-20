@@ -2,4 +2,5 @@ url: http://www.416software.com
 name: 416 Software
 title: 416 Software
 highlighter: rouge
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
+markdown: kramdown
